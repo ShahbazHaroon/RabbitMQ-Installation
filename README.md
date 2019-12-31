@@ -110,4 +110,4 @@ Guide to Install RabbitMQ on Windows
 
 <hr />
 
-<p>This concludes setting up and configuring RabbitMQ. If you found this post helpful or have any questions or remarks, please leave a comment.</p>
+<p>This concludes setting up and configuring RabbitMQ.</p>
